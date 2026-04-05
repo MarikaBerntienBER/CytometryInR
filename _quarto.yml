@@ -36,6 +36,8 @@ website:
       - text: "Course"
         href: course/index.qmd
     right:
+    - text: Existing Resources
+      href: ExistingResources.qmd
     - text: Discussions
       href: https://github.com/UMGCCCFCSR/CytometryInR/discussions
     - icon: youtube
